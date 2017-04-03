@@ -13,6 +13,13 @@
         </svg>
       </a>
 
+      <div class="trigger">
+        {% if page.links %}
+	{% for link in page.links %}
+        <a class="page-link" href="{{ link.url | relative_url }}">{{ link.title | escape }}</a>
+	{% endfor %}
+        {% endif %}
+      </div>
 
     </nav>
 
