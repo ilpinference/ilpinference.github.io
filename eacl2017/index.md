@@ -2,12 +2,13 @@
 layout: page
 title: Tutorial at EACL 2017
 
+
 links:
-- url: index.html
+- url: /eacl2017
   title: Overview
-- url: outline.html
-  title: Outline
-- url: references.html
+- url: /eacl2017/outline.html
+  title: "Outline & Slides"
+- url: /eacl2017/references.html
   title: References
 
 ---
