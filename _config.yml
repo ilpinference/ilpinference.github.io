@@ -1,3 +1,11 @@
-theme: jekyll-theme-slate
+# Site settings
+title: Integer Linear Programming for Natural Language Processing
+description: > # this means to ignore newlines until "baseurl:"
+  Constrained Conditional Models: Modeling natural language processing inference as integer linear programs
 
-title: Integer Linear Programming Inference for Natural Language Processing
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+
+# Build settings
+markdown: kramdown
