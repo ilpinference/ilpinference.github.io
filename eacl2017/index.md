@@ -4,7 +4,6 @@ layout: page
 
 ## Tutorial at EACL 2017
 
-
 ### Overview
 
 [Dan Roth](http://l2r.cs.illinois.edu) and [Vivek Srikumar](http://svivek.com)
