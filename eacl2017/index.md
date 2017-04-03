@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Tutorial at EACL 2017
 ---
-
-## Tutorial at EACL 2017
 
 ### Overview
 
