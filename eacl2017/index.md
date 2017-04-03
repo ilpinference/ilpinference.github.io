@@ -50,6 +50,7 @@ We will go over the following examples in this section:
 ### 5. Constraints Driven Learning 
 
 [30 min]
+
 - Semi-supervised Learning with Constraints
 - Constrained Expectation Maximization
 - Learning with Indirect Supervision
