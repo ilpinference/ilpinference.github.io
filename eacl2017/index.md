@@ -13,7 +13,9 @@ links:
 
 ---
 
-[Dan Roth](http://l2r.cs.illinois.edu) and [Vivek Srikumar](http://svivek.com)
+[Dan Roth](http://l2r.cs.illinois.edu) and [Vivek Srikumar](http://svivek.com) 
+
+
 
 Making decisions in natural language processing problems often
 involves assigning values to sets of interdependent variables where

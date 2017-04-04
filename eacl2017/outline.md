@@ -22,7 +22,7 @@ examples. We will motivate the framework of Constrained Conditional
 Models using examples from sequential inference, sentence compression
 and semantic role labeling.
 
-[Slides](slides/1-introduction/Structured-Tutorial-P1-Intro-03-17.pptx)
+[Slides](slides/Structured-Tutorial-P1-Intro-03-17.pptx)
 
 
 #### 2. Applications of ILP Formulations in Natural Language Processing 
@@ -36,7 +36,7 @@ We will go over the following examples in this section:
 - Co-reference resolution
 - Information extraction
 
-[Slides](slides/2-applications/applications.pptx)
+[Slides](slides/applications.pptx)
 
 #### 3. Modeling: Inference methods and Constraints 
 
@@ -45,14 +45,14 @@ We will go over the following examples in this section:
    - Augmenting Probabilistic Models with declarative constraints
 - Inference Algorithms
 
-[Slides](slides/3-modeling/modeling.pptx)
+[Slides](slides/modeling.pptx)
 
 #### 4. Training Paradigms 
 
 - Structured learning
 - Decomposed learning
 
-[Slides](slides/4-training-paradigms/Learning.pptx)
+[Slides](slides/Structured-Tutorial-P4-Learn-03-17.pptx)
 
 #### 5. Constraints Driven Learning 
 
@@ -60,18 +60,18 @@ We will go over the following examples in this section:
 - Constrained Expectation Maximization
 - Learning with Indirect Supervision
 
-[Slides](slides/5-constraint-driven-learning/codl.pptx)
+[Slides](slides/Structured-Tutorial-P5-Learn-03-17.pptx)
 
 #### 6. Developing ILP based Applications 
 
 - A “template-based” approach” for developing applications with ILP formulations
 - Software packages and tools 
 
-[Slides](slides/6-practical-tips/practical-tips.pptx)
+[Slides](slides/practical-tips.pptx)
 
 #### 7. Looking ahead 
 
 Final words and looking ahead at structured Formulations in the neural
 network era
 
-[Slides](slides/7-looking-ahead/final-words.pptx)
+[Slides](slides/final-words.pptx)
