@@ -14,7 +14,7 @@ links:
 
 ### References and links
 
-* [A bibliography of papers related to constrained conditional models and ILP inference](references.pdf)
+* [A bibliography of papers related to constrained conditional models and ILP inference](refs/references.pdf)
 
 * Key summary paper: M. Chang, L. Ratinov and D. Roth,
   [Structured Learning with Constrained Conditional Models](http://cogcomp.cs.illinois.edu/papers/ChangRaRo12.pdf).
@@ -31,12 +31,12 @@ links:
       [Learning and Inference with Constraints](http://cogcomp.cs.illinois.edu/page/publication_view/176). AAAI
       (2008)
 	  
-* A cookbook-style summary of how to implement constraints: TBA
+* A cookbook-style summary of how to implement constraints: Forthcoming
 
 * A note on
-  [Setting up Global Inference as Integer Linear Programming](ILP-Yih04.pdf)
+  [Setting up Global Inference as Integer Linear Programming](refs/ILP-Yih04.pdf)
   by Scott Yih
 
-* [A note on how to use soft constraints](soft-constraints-VS-2013.pdf) by
+* [A note on how to use soft constraints](refs/soft-constraints-VS-2013.pdf) by
   Vivek Srikumar
 
